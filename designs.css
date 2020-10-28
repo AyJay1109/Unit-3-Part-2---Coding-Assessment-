@@ -40,6 +40,28 @@ nav a {
     text-decoration: none;
 }
 
+html {
+    font-size: 12px;
+    background-color: 246, 177, 177;
+
+}
+
+body {
+    background-color: white;
+    width: 1024px;
+    margin: center;
+    box-shadow: color 10px 10px 25px, color -10px 10px 25px;
+}
+
+header {
+    background-color: white;
+    width: 100%;
+}
+
+header img {
+    width: 100%;
+    margin: center;
+}
 /* =============================================
 Base styles used by All Screens DO NOT EDIT ABOVE
 ============================================= */
